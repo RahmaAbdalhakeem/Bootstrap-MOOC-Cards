@@ -12,6 +12,7 @@ Built using HTML- Bootstrap 5- and JavaScript to practice UI design and basic in
 تم تنفيذه باستخدام HTML و Bootstrap 5 و JavaScript بهدف تطوير مهارات تصميم الواجهات
 
  الأدوات: HTML- Bootstrap 5- JavaScript
+
  ملاحظة: المشروع لأغراض تعليمية فقط.
 
  -------------------------------------------------------------------------------------------------
