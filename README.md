@@ -1,18 +1,39 @@
-A simple project to display training course cards (MOOCs)
-Built using HTML- Bootstrap 5- and JavaScript to practice UI design and basic interactivity.
+<div align="center">
 
- Tools: HTML, Bootstrap 5, JavaScript
- Note: This project is for learning purposes only.
+# 📚 Training Courses Cards (MOOCs)
 
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&width=600&lines=Front-End+Project;HTML+%7C+Bootstrap+5+%7C+JavaScript">
 
- --------------------------------------------------------------------
+</div>
 
+---
 
- مشروع بسيط لعرض كروت الدورات التدريبية (MOOCs)
-تم تنفيذه باستخدام HTML و Bootstrap 5 و JavaScript بهدف تطوير مهارات تصميم الواجهات
+## 👩‍💻 About | عن المشروع
+A simple Front-End project to display training course cards (MOOCs) using **HTML, Bootstrap 5, and JavaScript**.  
+مشروع بسيط لعرض كروت الدورات التدريبية لتدريب مهارات الـ Front-End.
 
- الأدوات: HTML, Bootstrap 5, JavaScript
+---
 
- ملاحظة: المشروع لأغراض تعليمية فقط.
+## 🛠 Tools | الأدوات
+- HTML5  
+- Bootstrap 5  
+- JavaScript  
 
- -------------------------------------------------------------------------------------------------
+---
+
+## ⭐ Support
+If you like this project, give it a ⭐ on GitHub!  
+
+---
+
+## 👩‍💻 Author
+**Rahma Abd Alhakeem** – Junior Front-End Developer  
+- GitHub: [https://github.com/RahmaAbdalhakeem]
+- LinkedIn: [https://www.linkedin.com/in/rahma-abd-alhakeem-0167882a5]
+- Email: [rahmaabdalhkeem730@gmail.com]  
+
+---
+
+## 🙏 Thank You
+Thank you for checking out this project 🤍  
+شكرًا لزيارتك المشروع 🌸
