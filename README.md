@@ -1,8 +1,6 @@
 <div align="center">
 
-# 📚 Training Courses Cards (MOOCs)
-
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&width=600&lines=Front-End+Project;HTML+%7C+Bootstrap+5+%7C+JavaScript">
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF0000&center=true&width=400&lines=📚+Training+Courses+Cards+(MOOCs);">
 
 </div>
 
