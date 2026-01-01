@@ -25,7 +25,7 @@ If you like this project, give it a ⭐ on GitHub!
 ---
 
 ## 👩‍💻 Author
-**Rahma Abd Alhakeem**–Junior Front-End Developer (Junior)
+**Rahma Abd Alhakeem** –Junior Front-End Developer (Junior)
 
 - GitHub: [https://github.com/RahmaAbdalhakeem]
 - LinkedIn: [https://www.linkedin.com/in/rahma-abd-alhakeem-0167882a5]
