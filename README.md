@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF0000&center=true&width=400&Training+Course+Cards+(MOOCs)">
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF0000&center=true&width=400&lines=Training+Course+Cards+(MOOCs)">
 
 </div>
 
